@@ -1,5 +1,6 @@
 MANIFEST.in
 meta.json
+setup.cfg
 setup.py
 pt_model/__init__.py
 pt_model/meta.json
